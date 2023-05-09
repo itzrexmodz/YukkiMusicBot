@@ -1,1 +1,1 @@
-https://deb.nodesource.com/setup_17.x | sudo -E bash
+curl -fssL https://deb.nodesource.com/setup_17.x | -E bash -
