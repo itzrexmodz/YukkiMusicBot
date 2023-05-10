@@ -1,6 +1,6 @@
-wget
 
-nodejs==16.x
+
+
 
 ffmpeg
 
