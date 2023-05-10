@@ -1,4 +1,6 @@
-https://deb.nodesource.com/setup_16.x
+wget
+
+wget https://deb.nodesource.com/setup_16.x
 
 ffmpeg
 
