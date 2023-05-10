@@ -1,5 +1,6 @@
-https://deb.nodesource.com/setup_17.x
+
 ffmpeg
 
 nodejs
+
 npm
